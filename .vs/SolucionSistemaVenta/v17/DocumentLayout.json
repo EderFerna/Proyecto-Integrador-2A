@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luis_\\desktop\\archsistvtamx\\archsistvtamx\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luis_\\desktop\\archsistvtamx\\archsistvtamx\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\sistemaventa.aplicacionweb\\views\\acceso\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\acceso\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luis_\\desktop\\archsistvtamx\\archsistvtamx\\sistemaventasmx\\sistemaventasmx\\sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44BAF4-642B-43E8-BFBA-680D92BCF0BC}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\restablecerclave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T03:32:37.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T03:30:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-05T22:35:30.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestablecerClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\RestablecerClave.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T16:11:12.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestablecerClave.cshtml",
+              "DocumentMoniker": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "ToolTip": "C:\\Users\\luis_\\Desktop\\ArchSistVtaMx\\ArchSistVtaMx\\SistemaVentasMx\\SistemaVentasMx\\SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Acceso\\RestablecerClave.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAMwGIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T16:11:11.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
