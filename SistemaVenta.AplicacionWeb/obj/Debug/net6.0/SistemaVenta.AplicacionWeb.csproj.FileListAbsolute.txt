@@ -4024,3 +4024,4 @@ C:\Users\luis_\Desktop\ArchSistVtaMx\ArchSistVtaMx\SistemaVentasMx\SistemaVentas
 C:\Users\luis_\Desktop\ArchSistVtaMx\ArchSistVtaMx\SistemaVentasMx\SistemaVentasMx\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\SistemaVenta.AplicacionWeb.pdb
 C:\Users\luis_\Desktop\ArchSistVtaMx\ArchSistVtaMx\SistemaVentasMx\SistemaVentasMx\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\SistemaVenta.AplicacionWeb.genruntimeconfig.cache
 C:\Users\luis_\Desktop\ArchSistVtaMx\ArchSistVtaMx\SistemaVentasMx\SistemaVentasMx\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\ref\SistemaVenta.AplicacionWeb.dll
+C:\Users\luis_\Desktop\ArchSistVtaMx\ArchSistVtaMx\SistemaVentasMx\SistemaVentasMx\SistemaVenta.AplicacionWeb\obj\Debug\net6.0\SistemaVenta.AplicacionWeb.sourcelink.json

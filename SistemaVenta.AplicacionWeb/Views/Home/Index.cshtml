@@ -8,8 +8,8 @@
         margin: 30px 0;
     }
 
-    table {
-        width: 80%;
+    .estilo-tabla {
+        width: 50%;
         border-collapse: collapse;
         background-color: white;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
@@ -17,33 +17,44 @@
         overflow: hidden;
     }
 
-    th, td {
-        padding: 15px;
+    .estilo-tabla th {
+        color: black;
+        font-weight: 600;
+        text-transform: uppercase;
+        font-size: 14px;
+        text-align: center;
+        padding: 12px;
+    }
+
+    .estilo-tabla td {
+        padding: 10px 15px;
         text-align: left;
         border-bottom: 1px solid #e0e0e0;
     }
 
-    th {
-        font-weight: 600;
-        text-transform: uppercase;
-        font-size: 14px;
-    }
-
-    tr:nth-child(even) {
+    .estilo-tabla tr:nth-child(even) {
         background-color: #f8f9fa;
     }
 
-    tr:hover {
+    .estilo-tabla tr:hover {
         background-color: #e8f4fc;
         transition: background-color 0.3s;
+    }
+
+    .Bienvenida {
+        max-width: 700px;
+        margin: 0 auto 30px auto;
+        text-align: justify;
+        line-height: 1.6;
+        color: #555;
     }
 </style>
 <div class="text-center">
     <h1 class="display-4">Bienvenido!</h1>
-    <p>Sistema de Puntos de Venta cuyo objetivo es captar, calcular y gestionar automáticamente todos los parámetros fiscales exigidos por el SAT, aplicando las tasas de impuestos correctas (IVA, IEPS) y generando CFDI válidos para cada transacción, garantizando así el estricto cumplimiento de las obligaciones tributarias desde el momento mismo de la venta.</p>
+    <p class="Bienvenida">Sistema de Puntos de Venta cuyo objetivo es captar, calcular y gestionar automáticamente todos los parámetros fiscales exigidos por el SAT, aplicando las tasas de impuestos correctas (IVA, IEPS) y generando CFDI válidos para cada transacción, garantizando así el estricto cumplimiento de las obligaciones tributarias desde el momento mismo de la venta.</p>
 </div>
 <div class="table-container">
-    <table>
+    <table class="estilo-tabla">
         <thead>
             <tr>
                 <th>Matricula</th>
